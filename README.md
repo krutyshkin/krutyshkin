@@ -33,5 +33,5 @@
 ![Aiogram](https://img.shields.io/badge/Aiogram-0099ff?style=for-the-badge&logo=telegram&logoColor=white)
 
 <p align="center">
-  ![Visitors](https://count.getloli.com/@krutyshkin-readme?theme=moebooru&scale=1.5&align=center)
+  ![](https://count.getloli.com/@krutyshkin-readme?theme=moebooru&scale=1.5)
 </p>
