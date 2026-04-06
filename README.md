@@ -32,6 +32,3 @@
 
 
 ![c4et](https://count.getloli.com/@krutyshkin?name=krutyshkin&theme=booru-r6gdrawfriends&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&prefix=0)
-<div align="center">
-  ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/krutyshkin/readme&label=VISITS&labelColor=%23555555&countColor=%23263759&style=flat-square)
-</div>
