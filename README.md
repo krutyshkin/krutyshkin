@@ -32,5 +32,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Aiogram](https://img.shields.io/badge/Aiogram-0099ff?style=for-the-badge&logo=telegram&logoColor=white)
 
-# 👁 Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=krutyshkin&color=blue&style=flat-square&label=Profile+Views)
+<p align="center">
+  ![Visitors](https://count.getloli.com/@krutyshkin-readme?theme=moebooru&scale=1.5&align=center)
+</p>
