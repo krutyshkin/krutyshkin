@@ -13,7 +13,7 @@
 
 <!-- ──────────────────────────── Terminal Info ──────────────────────────── -->
 
-![Terminal](https://readmeforge.natrajx.in/api/terminal?title=krutyshkin%2Fusr%2F&lines=%24+whoami+%7C+full-vibe-developer+%F0%9F%96%A5%EF%B8%8F+%7C++%0A%24+echo+SKILL.md+%7C+TypeScript+%E2%9A%A1+%C2%B7+React+%E2%9A%9B%EF%B8%8F+%C2%B7+Node.js+%F0%9F%8C%90+%C2%B7+Python+%F0%9F%90%8D+%C2%B7+LoLZTeam+%E2%9A%A1+%7C++%0A%24+cat+AGENTS.md+%7C+Open+Source+%F0%9F%92%BB+%7C&theme=dark&metal=chrome&width=600)
+![Terminal](https://readmeforge.natrajx.in/api/terminal?title=krutyshkin%2Fusr%2F&lines=%24+whoami+%7C+full-vibe-developer+%F0%9F%96%A5%EF%B8%8F+%7C++%0A%24+echo+SKILL.md+%7C+TypeScript+%E2%9A%A1+%C2%B7+React+%E2%9A%9B%EF%B8%8F+%C2%B7+Node.js+%F0%9F%8C%90+%C2%B7+Python+%F0%9F%90%8D+%C2%B7+LoLZTeam+%E2%9A%A1+%7C++%0A%24+cat+AGENTS.md+%7C+Open+Source+%F0%9F%92%BB+%7C&theme=dark&metal=chrome&width=500)
 
 # 🔗 Social
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/acaff)
