@@ -32,6 +32,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Aiogram](https://img.shields.io/badge/Aiogram-0099ff?style=for-the-badge&logo=telegram&logoColor=white)
 
-<p align="center">
-  ![c4et](https://count.getloli.com/@krutyshkin?name=krutyshkin&theme=booru-r6gdrawfriends&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&prefix=0)
-</p>
+
+![c4et](https://count.getloli.com/@krutyshkin?name=krutyshkin&theme=booru-r6gdrawfriends&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&prefix=0)
+
