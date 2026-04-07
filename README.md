@@ -32,3 +32,5 @@
 
 
 ![c4et](https://count.getloli.com/@krutyshkin?name=krutyshkin&theme=booru-r6gdrawfriends&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&prefix=0)
+
+
